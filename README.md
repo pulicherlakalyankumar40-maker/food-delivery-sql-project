@@ -53,4 +53,3 @@ commonly asked data analysis questions.
 ## 👨‍💻 Author
 Name    : Kalyan Kumar
 Email   : pulicherlakalyankumar40@gmail.com
-GitHub  : https://github.com/pulicherlakalyankumar40-maker
